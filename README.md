@@ -70,11 +70,11 @@ The interface will open in your browser using Gradio.
 
 Below are the sample visualizations produced by the dashboard:
 
-![Dashboard View 1](outputs/Dashboard_view_1.jpg)
-![Dashboard View 2](outputs/Dashboard_view_2.jpg)
-![Dashboard View 3](outputs/Dashboard_view_3.jpg)
-![Dashboard View 4](outputs/Dashboard_view_4.jpg)
-![Dashboard View 5](outputs/Dashboard_view_5.jpg)
+![Dashboard View 1](output/Dashboard_view_1.jpg)
+![Dashboard View 2](output/Dashboard_view_2.jpg)
+![Dashboard View 3](output/Dashboard_view_3.jpg)
+![Dashboard View 4](output/Dashboard_view_4.jpg)
+![Dashboard View 5](output/Dashboard_view_5.jpg)
 
 ---
 
